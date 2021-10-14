@@ -1,0 +1,6 @@
+D:\Subject\System Programming\Bao cao\MaHoaRSA\Server_MaHoaRSA\Server_MaHoaRSA\bin\Debug\Server_MaHoaRSA.exe.config
+D:\Subject\System Programming\Bao cao\MaHoaRSA\Server_MaHoaRSA\Server_MaHoaRSA\bin\Debug\Server_MaHoaRSA.exe
+D:\Subject\System Programming\Bao cao\MaHoaRSA\Server_MaHoaRSA\Server_MaHoaRSA\bin\Debug\Server_MaHoaRSA.pdb
+D:\Subject\System Programming\Bao cao\MaHoaRSA\Server_MaHoaRSA\Server_MaHoaRSA\obj\Debug\Server_MaHoaRSA.csprojAssemblyReference.cache
+D:\Subject\System Programming\Bao cao\MaHoaRSA\Server_MaHoaRSA\Server_MaHoaRSA\obj\Debug\Server_MaHoaRSA.exe
+D:\Subject\System Programming\Bao cao\MaHoaRSA\Server_MaHoaRSA\Server_MaHoaRSA\obj\Debug\Server_MaHoaRSA.pdb

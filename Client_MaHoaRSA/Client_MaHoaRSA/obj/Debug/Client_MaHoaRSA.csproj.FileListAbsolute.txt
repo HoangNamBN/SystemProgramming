@@ -1,0 +1,6 @@
+D:\Subject\System Programming\Bao cao\MaHoaRSA\Client_MaHoaRSA\Client_MaHoaRSA\bin\Debug\Client_MaHoaRSA.exe.config
+D:\Subject\System Programming\Bao cao\MaHoaRSA\Client_MaHoaRSA\Client_MaHoaRSA\bin\Debug\Client_MaHoaRSA.exe
+D:\Subject\System Programming\Bao cao\MaHoaRSA\Client_MaHoaRSA\Client_MaHoaRSA\bin\Debug\Client_MaHoaRSA.pdb
+D:\Subject\System Programming\Bao cao\MaHoaRSA\Client_MaHoaRSA\Client_MaHoaRSA\obj\Debug\Client_MaHoaRSA.csprojAssemblyReference.cache
+D:\Subject\System Programming\Bao cao\MaHoaRSA\Client_MaHoaRSA\Client_MaHoaRSA\obj\Debug\Client_MaHoaRSA.exe
+D:\Subject\System Programming\Bao cao\MaHoaRSA\Client_MaHoaRSA\Client_MaHoaRSA\obj\Debug\Client_MaHoaRSA.pdb
